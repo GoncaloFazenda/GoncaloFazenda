@@ -1,7 +1,7 @@
 # Gonçalo Almeida Fazenda
 
-Desenvolvo projetos web com Svelte e TypeScript.
+I build web projects with Svelte and TypeScript.
 
-- [Auto Nunes Martins](https://github.com/Auto-Nunes-Martins/AutoNunesMartins) — site público e plataforma de gestão do stand.
-- [MacroX](https://github.com/GoncaloFazenda/MacroX) — projeto em Svelte.
-- [Urban Wealth](https://github.com/GoncaloFazenda/Urban-Wealth) — projeto em TypeScript.
+- [Auto Nunes Martins](https://github.com/Auto-Nunes-Martins/AutoNunesMartins) — Public website and management platform for a car dealership.
+- [MacroX](https://github.com/GoncaloFazenda/MacroX) — A project built with Svelte.
+- [Urban Wealth](https://github.com/GoncaloFazenda/Urban-Wealth) — A project built with TypeScript.
